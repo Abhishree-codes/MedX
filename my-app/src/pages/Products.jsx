@@ -1,4 +1,4 @@
-import { Box,Flex,Text ,Grid,GridItem,Image,Skeleton} from '@chakra-ui/react'
+import { Box,Flex,Text ,Grid,GridItem,Image} from '@chakra-ui/react'
 import axios from 'axios'
 import { useEffect,useState } from 'react'
 import {Link} from 'react-router-dom'
