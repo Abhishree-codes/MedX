@@ -11,7 +11,7 @@ import {RiCustomerService2Line} from 'react-icons/ri'
 import {MdOutlineMedicalServices,MdOutlineBloodtype} from 'react-icons/md'
 import {GrNotes} from 'react-icons/gr'
 import {LuStethoscope,LuBookOpen,LuNetwork} from 'react-icons/lu'
-
+//skeleton here
 import {
   Button,
   Container,
