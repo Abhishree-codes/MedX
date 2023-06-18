@@ -1,4 +1,4 @@
-import { Box,Flex,Text ,Grid,GridItem,Image,Skeleton} from '@chakra-ui/react'
+import { Box,Flex,Text ,Grid,GridItem,Image} from '@chakra-ui/react'
 import axios from 'axios'
 import { useEffect,useState } from 'react'
 import {Link} from 'react-router-dom'
@@ -180,7 +180,7 @@ const getFeedback=()=>{
     console.log(error)
   })
 }
-
+//day2
   const getServices=()=>{
     axios.get("https://bookish-spoon-json-server.bhishree18.repl.co/services ").then((res)=>{
       //console.log(res.data)
