@@ -5,7 +5,21 @@ MedX is an E-commerce Platform that provides a way of connecting patients with d
 
 MedX is a user-friendly and efficient online appointment booking system designed for hospitals, enabling patients to easily schedule appointments with their preferred doctors. Utilizing a given UI template, HealthConnect streamlines the appointment booking process, providing convenience and accessibility to patients seeking medical care.
 
+## Pages
 
+- Landing Page
+
+
+<img width="1440" alt="Screenshot 2023-06-24 at 15 23 16" src="https://github.com/Abhishree-codes/short-attraction-8970/assets/123931117/cdf6c51b-87a7-4dc3-b23b-50718169607b">
+
+- Services Page
+  
+<img width="1440" alt="Screenshot 2023-06-24 at 15 23 58" src="https://github.com/Abhishree-codes/short-attraction-8970/assets/123931117/9fdb504b-62eb-4329-8e87-3f85f6a9fc07">
+
+<img width="1440" alt="Screenshot 2023-06-24 at 15 24 41" src="https://github.com/Abhishree-codes/short-attraction-8970/assets/123931117/80544bf3-db24-4984-8cf2-9cd3ae3f19e4">
+
+
+<img width="1440" alt="Screenshot 2023-06-24 at 15 24 27" src="https://github.com/Abhishree-codes/short-attraction-8970/assets/123931117/3adbe1a9-0f74-4985-844f-ca00a5e3cefb">
 
 
 
@@ -22,7 +36,7 @@ MedX is a user-friendly and efficient online appointment booking system designed
 
 This Website is live and deployed on netflify:
 
-Netlify Link: https://medx10980.netlify.app/services
+Netlify Link: https://medx10980.netlify.app
 
 By visiting the provided Netlify link, users can directly access and explore the HealthConnect website, experiencing its intuitive interface and seamless appointment booking functionality.
 
