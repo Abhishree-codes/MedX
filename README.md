@@ -42,7 +42,7 @@ By visiting the provided Netlify link, users can directly access and explore the
 
 ## Landing Page 
 
-![landing page]https://res.cloudinary.com/dsixdct6o/image/upload/v1695678489/Screenshot_2023-09-26_at_03.15.45_pbmz5y.png)
+![landing page](https://res.cloudinary.com/dsixdct6o/image/upload/v1695678489/Screenshot_2023-09-26_at_03.15.45_pbmz5y.png)
 
 ## Login Page 
 
