@@ -6,7 +6,7 @@ MedX is an E-commerce Platform that provides a way of connecting patients with d
 # Project Description
 
 
-MedX is a user-friendly and efficient online appointment booking system designed for hospitals, enabling patients to easily schedule appointments with their preferred doctors. Utilizing a given UI template, HealthConnect streamlines the appointment booking process, providing convenience and accessibility to patients seeking medical care.
+MedX is a user-friendly and efficient online appointment booking system designed for hospitals, enabling patients to easily schedule appointments with their preferred doctors. Utilizing a given UI template, MedX streamlines the appointment booking process, providing convenience and accessibility to patients seeking medical care.
 
 # 🔗 Links
 
