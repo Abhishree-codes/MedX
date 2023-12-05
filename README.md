@@ -1,4 +1,4 @@
-# Project Title
+# MedX
 
 
 MedX is an E-commerce Platform that provides a way of connecting patients with doctors of a hospital.
